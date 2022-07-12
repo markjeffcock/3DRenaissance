@@ -452,6 +452,10 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 20787554590591570, guid: 665d8158924bd2648a94fb3f87691bbb, type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 1024
+      objectReference: {fileID: 0}
     - target: {fileID: 20850121355348172, guid: 665d8158924bd2648a94fb3f87691bbb, type: 3}
       propertyPath: m_CullingMask.m_Bits
       value: 2048
