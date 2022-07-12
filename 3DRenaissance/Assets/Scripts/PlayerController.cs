@@ -4,17 +4,15 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public GameObject painting1;
-    public GameObject painting2;
-
     public GameObject[] paintingChange = new GameObject[16];
-    // Material[1]
-    // Material[2] etc
+    public int currentPainting;
+
     // Start is called before the first frame update
     // Element 0 is the default painting
     void Start()
     {
         paintingChange[0].SetActive(true);
+        currentPainting = 0;
     }
 
     // Update is called once per frame
@@ -22,20 +20,15 @@ public class PlayerController : MonoBehaviour
     {
         
     }
+    
+    // Switch off current Painting
+    // Set to newly request Painting (Button pressed)
+    // Reset value of currentPainting
     public void activate(int paintingButton)
     {
-        painting1.SetActive(false);
-        painting2.SetActive(false);
+        paintingChange[currentPainting].SetActive(false);
         paintingChange[paintingButton].SetActive(true);
+        currentPainting = paintingButton;
     }
-        public void activate1(string empty1)
-    {
-        painting1.SetActive(true);
-        painting2.SetActive(false);
-    }
-    public void activate2(string empty2)
-    {
-        painting1.SetActive(false);
-        painting2.SetActive(true);
-    }
+
 }
