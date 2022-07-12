@@ -7,6 +7,9 @@ public class PlayerController : MonoBehaviour
     public GameObject painting1;
     public GameObject painting2;
 
+    //public Material[] materialChange = new Material[20];
+    // Material[1]
+    // Material[2] etc
     // Start is called before the first frame update
     void Start()
     { 
