@@ -7240,11 +7240,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Garden of Earthly Delights (centre panel only), 1500
-
-
-    Hieronymus
-    Bosch'
+  m_Text: "The Garden of Earthly Delights (centre panel only), 1500\n\nHieronymus
+    Bosch, pseudonym of Jereon Anthoniszoon van Aken ('s-Hertogenbosch, 1453-' s-Hertogenbosch,
+    1516), was a Dutch painter. \nThe wealth of inventiveness in his works, veritable
+    visions, has called into questions different doctrines, amongst them psychanalysis,
+    each of which has give its own reading."
 --- !u!222 &1426004008
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7539,6 +7539,13 @@ MonoBehaviour:
 
 
     Hans Memling
+    (Selgenstaadt, c 1436 - Bruge, 1494)
+
+    was a German painter of Flemish training.
+
+    He
+    was among the leading masters of the ''second generation'' of Flemish painting.
+    His works are characterised by a refined elegance.
 
 '
 --- !u!222 &1441500615
