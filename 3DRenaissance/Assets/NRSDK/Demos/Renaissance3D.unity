@@ -4951,6 +4951,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1191963152465080, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1521790747846820, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1623441185678632, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762089625255386, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1978057401062284, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 4808320353365586, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4987,6 +5007,14 @@ PrefabInstance:
       propertyPath: m_OverrideCameraCenter
       value: 
       objectReference: {fileID: 736572257}
+    - target: {fileID: 669139937951343915, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4114455208944699262, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ad152f08ed7eb6e4abd93376a0203e38, type: 3}
 --- !u!1 &928572955
@@ -8395,18 +8423,18 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 1564597393}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2021280033}
-        m_TargetAssemblyTypeName: PlayerController, Assembly-CSharp
-        m_MethodName: activate
+      - m_Target: {fileID: 896361701}
+        m_TargetAssemblyTypeName: backgroundMusic, Assembly-CSharp
+        m_MethodName: toggle
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 14
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -10697,7 +10725,6 @@ MonoBehaviour:
   - {fileID: 1188496996}
   - {fileID: 565472901}
   currentPainting: 0
-  backgroundMusic: {fileID: 0}
 --- !u!4 &2021280034
 Transform:
   m_ObjectHideFlags: 0

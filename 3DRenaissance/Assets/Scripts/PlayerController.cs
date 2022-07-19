@@ -6,7 +6,6 @@ public class PlayerController : MonoBehaviour
 {
     public GameObject[] paintingChange = new GameObject[16];
     public int currentPainting;
-    public AudioSource backgroundMusic;
 
     // Start is called before the first frame update
     // Element 0 is the default painting
@@ -14,9 +13,7 @@ public class PlayerController : MonoBehaviour
     {
         paintingChange[0].SetActive(true);
         currentPainting = 0;
-    // Start background music
-        backgroundMusic.enabled = true;
-        backgroundMusic.Play();
+
     }
 
     // Update is called once per frame

@@ -1,19 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//using TMPro;
 
 public class backgroundMusic : MonoBehaviour
 
 {
 
     public AudioSource musicPiece;
+ //   public Material showingMaterial;
 
     // Start is called before the first frame update
 
     void Start()
     {
         musicPiece.enabled = true;
-        musicPiece.Play();
+    //    showingMaterial = transform.Find("AudioToggle").GetComponent<Material>();
     }
 
     // Update is called once per frame
@@ -24,9 +26,18 @@ public class backgroundMusic : MonoBehaviour
 
     // Switch on Music
 
-    public void activateOn()
+    public void toggle(int onOff)
     {
-        musicPiece.Play();
+        if (musicPiece.enabled)
+        {
+            musicPiece.enabled = false;
+       //     image.enabled = false;
+        }
+
+        else
+        {
+             musicPiece.enabled = true;
+        }
     }
     
 }
