@@ -10357,7 +10357,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &871266241
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28695,6 +28695,15 @@ MonoBehaviour:
 
     Antonello de Messina
 
+    nickname
+    of Antonio di Giovanni de Antonio (Messina, between 1425 and 1430 - Messina,
+    1479), was an Italian painter.
+
+    He was the main Sicilian painter of the fifteenth
+    century, first in the difficult balance of merging the light, atmosphere and
+    attention to detail of Flemish paiting with the monumentality and rational spatiality
+    of the Italian school.
+
 '
 --- !u!222 &2122646719
 CanvasRenderer:
@@ -29860,7 +29869,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &5081817106809152818
 GameObject:
   m_ObjectHideFlags: 0
