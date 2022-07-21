@@ -45,7 +45,9 @@ namespace NRKernal
         {
             if (TriggerEvent != null)
             {
+
                 TriggerEvent(Enter, gameObject, eventData.pointerCurrentRaycast);
+ 
             }
 
             if (ImageHover != null && m_ButtonImage != null)
