@@ -2648,7 +2648,15 @@ MonoBehaviour:
   m_Text: 'The Bean Feast, 1668
 
 
-    Jan Steen'
+    Jan Havickszoon Steen (Leiden, 1626 - Leiden,
+    1679) was one of the most popular Dutch painters in 17th century Holland.
+
+    His
+    vast production includes mythological and biblical subjects, still lifes, landscapes
+    and self-portraits.
+
+    His favorite theme, however, was everyday life, especially
+    of the middle and lower classes, seen with psychological introspection and irony.'
 --- !u!222 &273495758
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3013,7 +3021,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "The Wedding Feast at Cana, 1563\n\nPaulo Colori, known as il Veronese
+  m_Text: "The Wedding Feast at Cana, 1563\n\nPaulo Caliari, known as il Veronese
     \n(Verona, 1528 - Venice, 1588), was an Italian Renaissance painter, citizen
     of the Venetian Republic. Active in Venice and in other places in the Veneto
     region, he is known in particular for his large paintings with religious and
@@ -3189,10 +3197,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: '????, ???
 
 
-    Johan Zoffany
+    Giambattista Tiepolo (Venice, 1696 - Madris, 1770)
+
+    was
+    one of the main painters in the Venetian eighteenth century. Inventor of extraordinary
+    compositions that will lead him to be known throughout Europe, he worked in Venice
+    where he created exceptional religious paintings in Milan, in Wurzburg and Madrid
+    where he decorated the rooms of the new royal palace.
 
 '
 --- !u!222 &331523321
@@ -5637,9 +5651,9 @@ MonoBehaviour:
 
 
     Jan van der Straet,
-    known as Giovanni Stradano,.(Bruges, 1523 - Florence 1605) was a Flemish painter,
+    known as Giovanni Stradano, (Bruges, 1523 - Florence 1605) was a Flemish painter,
     active especially in Florence, where he left some valuable alterpieces. He also
-    designed more thatn 130 cartoons for tapestries and the illustrations drawn by
+    designed more than 130 cartoons for tapestries and the illustrations drawn by
     him had a wide spread.'
 --- !u!222 &479711064
 CanvasRenderer:
@@ -5723,7 +5737,12 @@ MonoBehaviour:
   m_Text: 'Gallery of Views of Modern Rome, 1759
 
 
-    Giovanni Paolo Panini
+    Giovanni Paolo Pannini - or
+    Panini -
+
+    (Piacenza, 1691 - Rome, 1765) was an Italian [ainter, architect
+    and set designer known for his "vedute", gallery paintings which in turn contain
+    views of Rome.
 
 '
 --- !u!222 &486472535
@@ -12457,7 +12476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: f8d3fff4dc2a54547a8fb250aabef919, type: 2}
+  m_Material: {fileID: 2100000, guid: d7f087520965e1043a0fff56a27f0595, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -13787,7 +13806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 19cd633489d0db24aaa9f9040085e453, type: 2}
+  m_Material: {fileID: 2100000, guid: ed81a5d31c2456f4b84a8ff8d48497db, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -17328,7 +17347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: f8d3fff4dc2a54547a8fb250aabef919, type: 2}
+  m_Material: {fileID: 2100000, guid: 6e42e797207027548819b7a610994aec, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -18134,7 +18153,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "The Garden of Earthly Delights (centre panel only), 1500\n\nHieronymus
-    Bosch, pseudonym of Jereon Anthoniszoon van Aken ('s-Hertogenbosch, 1453-' s-Hertogenbosch,
+    Bosch, pseudonym of Jeroen Anthoniszoon von Aken ('s-Hertogenbosch, 1453- 's-Hertogenbosch,
     1516), was a Dutch painter. \nThe wealth of inventiveness in his works, veritable
     visions, has called into questions different doctrines, amongst them psychanalysis,
     each of which has give its own reading."
@@ -18509,7 +18528,7 @@ MonoBehaviour:
 
 
     Hans Memling
-    (Selgenstaadt, c 1436 - Bruge, 1494)
+    (Seligenstaadt, c 1436 - Bruge, 1494)
 
     was a German painter of Flemish training.
 
@@ -20357,7 +20376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 19cd633489d0db24aaa9f9040085e453, type: 2}
+  m_Material: {fileID: 2100000, guid: b34ca2ee017a27044b0f5062774dac3a, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -20463,7 +20482,7 @@ MonoBehaviour:
     (Rome, 1499? - Mantua, 1546), was an Italian architect
     and painter, an important and versatile personality of the Renaissance and Mannerism.
     Pupil and collaborator of Raphael, he worked above all in Rome and Mantuo at
-    the court of the Gonzogas'
+    the court of the Ganzagas.'
 --- !u!222 &1556259943
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20580,7 +20599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 19cd633489d0db24aaa9f9040085e453, type: 2}
+  m_Material: {fileID: 2100000, guid: ed81a5d31c2456f4b84a8ff8d48497db, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -22325,7 +22344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: e9ab87ac985834f42859e04b97634f7d, type: 2}
+  m_Material: {fileID: 2100000, guid: 9f0c3ad0299c9cc499b41d99b4e7c184, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -22552,7 +22571,17 @@ MonoBehaviour:
   m_Text: 'The Art of Painting, 1666-69
 
 
-    Johannes Vermeer,
+    Johannes van der Meer, usually abbreviated
+    to Jan Vermeer,
+
+    (Delft, 1632 - Delft 1675) was a Dutch painter,
+
+    a leading
+    exponent of the Dutch golden age, a master in portraying environments of everyday
+    life. In his paintings a bourgeoisie appears attentative to the values of work,
+    family, childcare and serenely engaged in the chores of domestic life, rendered
+    with vivid and transparent colours applied on the canvases with small and close
+    paints.
 
 '
 --- !u!222 &1681296186
@@ -27707,8 +27736,8 @@ MonoBehaviour:
   - {fileID: 1684754214}
   - {fileID: 1230051783}
   - {fileID: 1859537470}
-  - {fileID: 941562310}
   - {fileID: 1745639294}
+  - {fileID: 941562310}
   - {fileID: 1188496996}
   - {fileID: 565472901}
   - {fileID: 1729066139}
@@ -28784,12 +28813,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: '???, ????
 
 
-    Johan Zoffany
+    Pietro Longhi, born Pietro Falca
 
-'
+    #(Venice, 1701 -
+    Venice, 1785), was an Italian painter.
+
+    With his painting of himself he proposed
+    a careful observation of the Venetian mercantile high borgeoisie in both domestic
+    and worldly everyday life and the accurate chronicle of the social customs of
+    an entire era.'
 --- !u!222 &2127657908
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29005,7 +29040,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: e9ab87ac985834f42859e04b97634f7d, type: 2}
+  m_Material: {fileID: 2100000, guid: 9f0c3ad0299c9cc499b41d99b4e7c184, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
