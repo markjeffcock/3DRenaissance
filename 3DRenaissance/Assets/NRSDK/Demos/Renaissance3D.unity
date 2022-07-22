@@ -12981,10 +12981,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Chalk Cliffs on Rugen, 1818
 
 
-    Johan Zoffany
+    Caspar David Friedrich (Greifswald,
+    1774 - Dresden, 1840) was one of the most important representatives of the "symbolic
+    landscape" of Germanic Romanticism.
 
 '
 --- !u!222 &825604243
@@ -37078,14 +37080,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '???, ???
+  m_Text: 'The Snake Charmer, 1899
 
 
     Ettore Simonetti (Rome, 1857 - Rome, 1909)
 
-    was an
-    Italian painter and watercolorist who painted his passion for the East and the
-    eighteenth century inspired by illustrations and collections of exotic objects.
+    was
+    an Italian painter and watercolorist who painted his passion for the East and
+    the eighteenth century inspired by illustrations and collections of exotic objects.
 
 '
 --- !u!222 &2043420413
