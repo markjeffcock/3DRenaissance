@@ -830,7 +830,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 996}
+  m_AnchoredPosition: {x: 402, y: 996}
   m_SizeDelta: {x: 125, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &24268480
@@ -7290,10 +7290,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Triptych: The Visitation, the Descent from the Cross, and the Presentation
+    of Jesus at the Temple. 1612-1614
 
 
-    Johan Zoffany
+    Pieter Paul Rubens (Siegen, 1577 - Antwerp,
+    1640)
+
+    was a Flemish painter, pioneer of the European Baroque. Born in Germany
+    and exiled at a very young age to Antwerp, he completed his artisitc training
+    in Italy before establishing himself throughout Europe with an incessant production
+    of works. Diplomat for various noble families, he met the most important European
+    monarchs and worked for the royal courts in Madrd, Paris and London.
 
 '
 --- !u!222 &440030885
@@ -10447,12 +10455,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Christ driving the Money Lenders from the Temple, 1635
 
 
-    Johan Zoffany
+    Giovanni
+    Francesco Barbieri, nicknamed Guercino (Cento, 1591 - Bologna, 1666)
 
-'
+    was
+    an Italian painter. Influenced at first by Carracci, Titian and Jacopo Bassano,
+    his mature style is closer to the classicism of Guido Reni.'
 --- !u!222 &649036885
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11003,12 +11014,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
-
-
-    Johan Zoffany
-
-'
+  m_Text: "Massacre of the Innocents, 1611\n\nGuido Reni (Bologna, 1575 - Bologna,
+    1642) \nwas one of the greatest exponents of the XVII century classicism. His
+    aesthetic search leads him to overcome the baroque fictions, first in Rome, where
+    he interprets the cultured taste of the nobility and the pope, and then in Bologna,
+    where he paints not only religious but also mythological and literary paintings.\n"
 --- !u!222 &699267872
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13580,10 +13590,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Mirtillo crowning Amarillis, 1640s
 
 
-    Johan Zoffany
+    Antoon van Dyck (Antwerp, 1599
+    - London 1641)
+
+    was a Flemish painter, a pupil of of Rubens. After a long
+    stay in Italy he became the first court painter in England.
+
+    He is known
+    for portraits, but he also dealt with biblical and mythological subjects, introducing
+    some notable innovations.
 
 '
 --- !u!222 &856248609
@@ -26287,12 +26305,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Diana leaving her Bath, 1742
 
 
-    Johan Zoffany
+    Francois Boucher (Paris, 1703 - Paris,
+    1770)
 
-'
+    French painter and engraver famous for mytholoigcal treatises, with
+    which he represents Parisian soceity revolving around Louis XV, translated through
+    elegant and sensual figurations, luminous scenes, light colours and enveloped
+    forms.'
 --- !u!222 &1526348623
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27023,7 +27045,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 996}
+  m_AnchoredPosition: {x: 402, y: 996}
   m_SizeDelta: {x: 125, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1555305055
@@ -27385,7 +27407,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 995}
+  m_AnchoredPosition: {x: 402, y: 995}
   m_SizeDelta: {x: 125, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1564597392
@@ -27456,7 +27478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: ed81a5d31c2456f4b84a8ff8d48497db, type: 2}
+  m_Material: {fileID: 2100000, guid: b34ca2ee017a27044b0f5062774dac3a, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -29720,7 +29742,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 9f0c3ad0299c9cc499b41d99b4e7c184, type: 2}
+  m_Material: {fileID: 2100000, guid: c61dbe4a937019c41b78f489ea074772, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -31669,10 +31691,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Virgin and Child Enthroned with Saints, 1488
 
 
-    Johan Zoffany
+    Carlo Crivelli (Venice,
+    1430? - Ascoli Picena, 1495) was an Italian painter active mainly in the south
+    of the Marche. Altough isolated from the great current of Italian Renaissance
+    art, he continuelly renewed himself with an original formal research, with a
+    sumptious late Gothic decoration combined with the experimentation of perspective.
 
 '
 --- !u!222 &1730469491
@@ -36027,10 +36053,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Lamentation of Christ, 1482
 
 
-    Johan Zoffany
+    Andrew Mantegna (Isola di Carturo, 1431
+    - Mantua, 1506) was one of the greatest Renaissance artists of northern Italy,
+    known for his experiments on perspective and spatial illusionism. Active in Padua,
+    Ferrara, Rome and above all at the Ganzaga court in Mantua, he influenced many
+    of his contemporaries, including Leonardo and Durer.
 
 '
 --- !u!222 &1952362745
@@ -38301,15 +38331,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '???, ????
+  m_Text: 'The Tooth Puller, 1746
 
 
     Pietro Longhi, born Pietro Falca
 
-    #(Venice, 1701 -
-    Venice, 1785), was an Italian painter.
+    (Venice,
+    1701 - Venice, 1785), was an Italian painter.
 
-    With his painting of himself he proposed
+    With his painting he proposed
     a careful observation of the Venetian mercantile high borgeoisie in both domestic
     and worldly everyday life and the accurate chronicle of the social customs of
     an entire era.'
@@ -38528,7 +38558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 9f0c3ad0299c9cc499b41d99b4e7c184, type: 2}
+  m_Material: {fileID: 2100000, guid: c61dbe4a937019c41b78f489ea074772, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
