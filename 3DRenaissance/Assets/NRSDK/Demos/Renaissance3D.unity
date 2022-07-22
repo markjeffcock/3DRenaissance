@@ -351,7 +351,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 19
+          m_IntArgument: 35
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -368,7 +368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 2bfa5cb46b54d6f4a88ef46145f860fe, type: 2}
+  m_Material: {fileID: 2100000, guid: 946b594c3392e874b81d5fb94be91b98, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -517,7 +517,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2e2fde90c3d5e024da57e35f53f3db8b, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.35
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -525,7 +525,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 6465e74a1e261b044a2fbe46e75d246a, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -1737,6 +1737,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91351183}
   m_CullTransparentMesh: 1
+--- !u!1 &92548630 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 1880377672}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &102049610
 GameObject:
   m_ObjectHideFlags: 0
@@ -2114,7 +2119,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 5af9f6067a91fe24a8128217a84008f3, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 5.62
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2122,7 +2127,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 19370c8d98457364d83261e31086f512, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 5.62
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -2515,7 +2520,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 29
+          m_IntArgument: 44
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2532,7 +2537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: f8b2e510878190045977041988032663, type: 2}
+  m_Material: {fileID: 2100000, guid: 571d0884e0d86c742ae1861fd09b2ac8, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -2635,7 +2640,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 19a9f18fdfccd6d4b8e56bc94cbea944, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.7
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2643,7 +2648,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: a61760420d95563449cd59a549114dfc, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -3132,7 +3137,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 24
+          m_IntArgument: 39
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3149,7 +3154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: ae2e517be45283949812819c31f68ce1, type: 2}
+  m_Material: {fileID: 2100000, guid: 04fcdaca6ae9fcf4e8b2cb1be630223f, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -5174,7 +5179,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 25
+          m_IntArgument: 40
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5191,7 +5196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 8dfdae2e09b6ddc48ab10b2218479b7c, type: 2}
+  m_Material: {fileID: 2100000, guid: 91bfa284fcfdff4409fed88285c76ee8, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -5631,7 +5636,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 50e5210cfff20544f8564cb12f5998f7, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.62
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5639,7 +5644,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: c4aff6b8386ac314596068c4236108f4, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.62
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -7129,6 +7134,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 430797310}
   m_CullTransparentMesh: 1
+--- !u!1 &430845711 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 844652172}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &431779012
 GameObject:
   m_ObjectHideFlags: 0
@@ -7548,7 +7558,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 10d4a34705186f14ea16aaa42fc3299f, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -7556,7 +7566,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 27022440c91161a449cf171c36ab474b, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -7951,7 +7961,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 21
+          m_IntArgument: 37
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -7968,7 +7978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: fd9b7596228d527479e0185e6b914950, type: 2}
+  m_Material: {fileID: 2100000, guid: 1b20c3502602c684ebf1326f71cb99e3, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -8085,7 +8095,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 17
+          m_IntArgument: 32
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -8102,7 +8112,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 40a6cedb70ed7ac4fad805c0f3c23697, type: 2}
+  m_Material: {fileID: 2100000, guid: dd5f6358f94312f4c8a79ac3833840f2, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -8964,6 +8974,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 547416543}
   m_CullTransparentMesh: 0
+--- !u!1 &562552054 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 1576334429}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &565472900
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9332,6 +9347,11 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &589332589 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 455420755}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &592884125
 GameObject:
   m_ObjectHideFlags: 0
@@ -10735,7 +10755,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 18
+          m_IntArgument: 33
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -10752,7 +10772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 56344d1dbfcee4e40b0b3046abcda18f, type: 2}
+  m_Material: {fileID: 2100000, guid: d152a12a27873ec4f9f66a2f688f3378, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -13435,7 +13455,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 9d1c1afba54b83c4bad2220057881f5b, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.46
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -13443,7 +13463,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: fb7d950e44c68934ea038922c764f503, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.46
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -14572,7 +14592,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: f82030ef2d4ed694b8ad31bb66cc822e, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.19
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -14580,7 +14600,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: c3bb495064e4f6f4c905a9a2b7c52ebe, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.19
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -16052,7 +16072,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 23
+          m_IntArgument: 34
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -16069,7 +16089,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 9684f758bb7a3d84f9b312868cdcfc99, type: 2}
+  m_Material: {fileID: 2100000, guid: 2669c9b01d7034f4e8ad67b88aa4073d, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -16548,6 +16568,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 946246194}
   m_CullTransparentMesh: 1
+--- !u!1 &951234585 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 1275301447}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &954096128
 GameObject:
   m_ObjectHideFlags: 0
@@ -16719,7 +16744,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 20
+          m_IntArgument: 36
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -16736,7 +16761,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 402ba314350b0a649939239d03151db7, type: 2}
+  m_Material: {fileID: 2100000, guid: abf9bb588180e8944b5d8e05c559530e, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -18506,6 +18531,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3179680334045385020, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
   m_PrefabInstance: {fileID: 801578471}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1089596519 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 1227456374}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1096099678
 GameObject:
   m_ObjectHideFlags: 0
@@ -19619,7 +19649,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 209b474bfb4be1246becab4598a05aab, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.75
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -19627,7 +19657,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 8ef0f7d5ba3bd5f44ab2e4a2945dcd05, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.75
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -19774,6 +19804,11 @@ CanvasRenderer:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3179680334045385020, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
   m_PrefabInstance: {fileID: 1684754213}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1180953663 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 4774899}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1188496996 stripped
 GameObject:
@@ -20422,7 +20457,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2b497e740fb007b42915411b291ad757, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.23
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -20430,7 +20465,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 764c3493e7b4b6e4b8351b1b2c6cc410, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.23
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -20530,7 +20565,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 28
+          m_IntArgument: 43
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -20547,7 +20582,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 2a30c35be1c5772458e010726df36d85, type: 2}
+  m_Material: {fileID: 2100000, guid: 231028ab52aef6c4faeeb7c342911b75, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -21126,7 +21161,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 22
+          m_IntArgument: 38
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -21143,7 +21178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 0171839c817fd2b448d8ec30861ea0b5, type: 2}
+  m_Material: {fileID: 2100000, guid: 21e8cc50195bc0942999ca543824c435, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -21646,7 +21681,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 7695b073cd5ca344f9cf31969129eed1, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.86
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -21654,7 +21689,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: e6d5956a41c780c428a76f56bd01d2ff, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 3.86
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -23276,7 +23311,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: ec52382796d47dd43987189e759c21ff, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.11
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -23284,7 +23319,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: bcebb3f8bd395aa4fb09c7791ac2fe9b, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -23561,6 +23596,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1362136086}
   m_CullTransparentMesh: 1
+--- !u!1 &1365772624 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 1349064207}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1375825030
 GameObject:
   m_ObjectHideFlags: 0
@@ -24853,6 +24893,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1451071619}
   m_CullTransparentMesh: 0
+--- !u!1 &1467685749 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 345533979}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1470084186
 GameObject:
   m_ObjectHideFlags: 0
@@ -27166,7 +27211,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 26
+          m_IntArgument: 41
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -27183,7 +27228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 27919d0c27a502b4482a0f89a7daacf1, type: 2}
+  m_Material: {fileID: 2100000, guid: 4194e2ea7988adf4b988f8384f10703e, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -27298,6 +27343,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1556259940}
   m_CullTransparentMesh: 0
+--- !u!1 &1559462733 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 131483736}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1564597390
 GameObject:
   m_ObjectHideFlags: 0
@@ -27589,7 +27639,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 8a0f87c076bbd9f4c804dda76a153981, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.77
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -27597,7 +27647,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 10021996dbe5e0848be01b74674df94c, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.77
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -28349,7 +28399,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 30
+          m_IntArgument: 45
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -28366,7 +28416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: f5d9d73f5c975704ba88346956cf8fcd, type: 2}
+  m_Material: {fileID: 2100000, guid: 38cbf2c494bc1bf418274c03606d1720, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -33608,7 +33658,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: baabd461b953ef74d9802dcf2d052fbb, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.14
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -33616,7 +33666,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 5814f73809fc9db409c5987a182c779f, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -34638,7 +34688,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 7a9ae04083f25c54eb80ca9bc932be95, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.23
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -34646,7 +34696,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: cf94b948d669f3d4ebaab2d19ef7a364, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 2.23
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -35246,6 +35296,11 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 1000}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1927670892 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3179680333240734542, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
+  m_PrefabInstance: {fileID: 1161120666}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1929554357
 GameObject:
   m_ObjectHideFlags: 0
@@ -35858,7 +35913,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 16
+          m_IntArgument: 31
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -35875,7 +35930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 87e4de311906b2b46a3c8e85df021ec3, type: 2}
+  m_Material: {fileID: 2100000, guid: 85f8793a5b4f95b41b50883f19b96f32, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -36808,7 +36863,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 67acf1e5a12acdd47b03454a4dc240db, type: 2}
     - target: {fileID: 3179680333504844967, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.95
       objectReference: {fileID: 0}
     - target: {fileID: 3179680334325417357, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -36816,7 +36871,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 484b9f4b106e8e342ad3c57db946aa9e, type: 2}
     - target: {fileID: 3179680334325417359, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.4
+      value: 4.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc6a5f4f5e11aed48930e828f68df87f, type: 3}
@@ -36891,21 +36946,21 @@ MonoBehaviour:
   - {fileID: 7110052}
   - {fileID: 396820858}
   - {fileID: 1335890978}
-  - {fileID: 169479314}
-  - {fileID: 2015365896}
-  - {fileID: 882724619}
+  - {fileID: 1927670892}
+  - {fileID: 562552054}
+  - {fileID: 589332589}
+  - {fileID: 1467685749}
+  - {fileID: 92548630}
+  - {fileID: 951234585}
   - {fileID: 1832040110}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
-  - {fileID: 1335890978}
+  - {fileID: 1180953663}
+  - {fileID: 1089596519}
+  - {fileID: 2015365896}
+  - {fileID: 1365772624}
+  - {fileID: 1559462733}
+  - {fileID: 169479314}
+  - {fileID: 430845711}
+  - {fileID: 882724619}
   currentPainting: 0
 --- !u!4 &2021280034
 Transform:
@@ -38827,7 +38882,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 27
+          m_IntArgument: 42
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -38844,7 +38899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: 9f1c86b9771390c4aa69a22862263b84, type: 2}
+  m_Material: {fileID: 2100000, guid: 284c83ba2f525b540beed2f73f6eca70, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
