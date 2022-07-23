@@ -4888,16 +4888,17 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '????, ???
+  m_Text: 'The Banquet of Clepatra, 1744
 
 
-    Giambattista Tiepolo (Venice, 1696 - Madris, 1770)
+    Giambattista Tiepolo (Venice, 1696
+    - Madris, 1770)
 
-    was
-    one of the main painters in the Venetian eighteenth century. Inventor of extraordinary
-    compositions that will lead him to be known throughout Europe, he worked in Venice
-    where he created exceptional religious paintings in Milan, in Wurzburg and Madrid
-    where he decorated the rooms of the new royal palace.
+    was one of the main painters in the Venetian eighteenth
+    century. Inventor of extraordinary compositions that will lead him to be known
+    throughout Europe, he worked in Venice where he created exceptional religious
+    paintings in Milan, in Wurzburg and Madrid where he decorated the rooms of the
+    new royal palace.
 
 '
 --- !u!222 &331523321
@@ -13592,7 +13593,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Mirtillo crowning Amarillis, 1640s
+  m_Text: 'Mirtillo crowning Amarillis, 1640
 
 
     Antoon van Dyck (Antwerp, 1599
@@ -21983,10 +21984,17 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'The Sleep of Reason produces Monsters, 1797-99
 
 
-    Johan Zoffany
+    Francisco Jose de
+    Goya y Lucientes (Fuendetodos 1746 - Bordeaux, 1828)
+
+    was a Spanish painter
+    and engraver, often referred to as the last of the old masters and the first
+    of the moderns. His paintings, drawings and his engravings reflected the historical
+    upheavals in progress and influenced the most important contemporary and following
+    century painters.
 
 '
 --- !u!222 &1287882077
@@ -31699,8 +31707,8 @@ MonoBehaviour:
     Carlo Crivelli (Venice,
     1430? - Ascoli Picena, 1495) was an Italian painter active mainly in the south
     of the Marche. Altough isolated from the great current of Italian Renaissance
-    art, he continuelly renewed himself with an original formal research, with a
-    sumptious late Gothic decoration combined with the experimentation of perspective.
+    art, he continuely renewed himself with an original formal research, with a sumptious
+    late Gothic decoration combined with the experimentation of perspective.
 
 '
 --- !u!222 &1730469491
@@ -37259,10 +37267,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
+  m_Text: 'Ceiling of the Sistine Chapel, 1508-12
 
 
-    Johan Zoffany
+    Michelangelo Buonarroti (Caprese,
+    1475 - Rome, 1564)
+
+    was an Italian sculptor, painter, architect and poet.
+    Protaganist of the Italian Renaissance, even in his life was recognised by his
+    contempararies as one of the greatest artists of all time. A genius as well as
+    restless personality, his name is linked to some of the most majestic works of
+    Western art, including the David, Moses, the Pieta of the Vatican, the Dome of
+    St. Peter and the cycle of frecoes in the Sistine Chapel.
 
 '
 --- !u!222 &2067745724
@@ -38255,12 +38271,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'The Tribuna of the Uffizi, 1772-77
-
-
-    Johan Zoffany
-
-'
+  m_Text: "The Ghent Altarpiece (exterior), 1432\n\nJan van Eyck (Maaseik, 1390?
+    - Bruges, 1441)\nwas a Flemish painter. He was an internationallly renowned artist
+    and the formal perfection of his art had a revolutionary significance for the
+    time. The progenitor of painting in the Netherlands in the 15th century and the
+    greatest northern \nEuropean painter of his time, he perfected oil painting which
+    gradually replaced tempura. A controversial figure is Hubert van Eyck (1370-1426),
+    brother of Jan, of whom he would have been the teacher. In these terms, he should
+    therefore be considered the founder of Flemish painting."
 --- !u!222 &2126205756
 CanvasRenderer:
   m_ObjectHideFlags: 0
