@@ -1646,7 +1646,17 @@ MonoBehaviour:
   m_Text: 'The School of Athens, 1509-11
 
 
-    Raphael (Raffaello Sanzio da Urbino)
+    Raffaello Sanzio (Urbino, 1483 - Rome,
+    1520)
+
+    was an Italian painter and architect, one of the most famous of the
+    Renaissance and considered one of the greatist artists of all time.
+
+    His
+    works were of vital importance for the development of the artistic language of
+    the centuries to come, influencing the history of Western art up to the present
+    day, also thanks to his followers who carried on the "mannerist" language for
+    decades throughout Europe.
 
 '
 --- !u!222 &86743369
@@ -4282,9 +4292,7 @@ MonoBehaviour:
 
     His
     vast production includes mythological and biblical subjects, still lifes, landscapes
-    and self-portraits.
-
-    His favorite theme, however, was everyday life, especially
+    and self-portraits. His favorite theme, however, was everyday life, especially
     of the middle and lower classes, seen with psychological introspection and irony.'
 --- !u!222 &273495758
 CanvasRenderer:
@@ -4793,12 +4801,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "The Wedding Feast at Cana, 1563\n\nPaulo Caliari, known as il Veronese
-    \n(Verona, 1528 - Venice, 1588), was an Italian Renaissance painter, citizen
+  m_Text: 'The Wedding Feast at Cana, 1563
+
+
+    Paulo Caliari, known as il Veronese
+    (Verona, 1528 - Venice, 1588)
+
+    was an Italian Renaissance painter, citizen
     of the Venetian Republic. Active in Venice and in other places in the Veneto
     region, he is known in particular for his large paintings with religious and
     mythological subjects. His large frescoes representing biblical feasts crowded
-    with figures immersed in majestic architectual settings are particularly famous.\n"
+    with figures immersed in majestic architectual settings are particularly famous.
+
+'
 --- !u!222 &317657225
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8526,7 +8541,7 @@ MonoBehaviour:
     Giovanni Paolo Pannini - or
     Panini -
 
-    (Piacenza, 1691 - Rome, 1765) was an Italian [ainter, architect
+    (Piacenza, 1691 - Rome, 1765) was an Italian painter, architect
     and set designer known for his "vedute", gallery paintings which in turn contain
     views of Rome.
 
@@ -21394,7 +21409,7 @@ MonoBehaviour:
 
     His interest in science at first
     made him work mainly for London science circles and soon he became an interpreter
-    of the industrial revolution taking place. A ohysicist himself,he experimented
+    of the industrial revolution taking place. A physicist himself,he experimented
     in various ways on the pictorial effects of light with effects borrowed from
     Caravaggio contaminated by the romantic naturalism of his time.
 
@@ -34128,7 +34143,7 @@ MonoBehaviour:
     to Sinai, 1860
 
 
-    Kalr Von Blaas (Nauders, 1815 - Vienna, 1894)
+    Karl Von Blaas (Nauders, 1815 - Vienna, 1894)
 
     was the
     greatest representative of a family of illustrious Tyrolean painters. After his
@@ -38841,7 +38856,7 @@ MonoBehaviour:
 
     He was the main Sicilian painter of the fifteenth
     century, first in the difficult balance of merging the light, atmosphere and
-    attention to detail of Flemish paiting with the monumentality and rational spatiality
+    attention to detail of Flemish painting with the monumentality and rational spatiality
     of the Italian school.
 
 '
