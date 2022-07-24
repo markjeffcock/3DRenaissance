@@ -8,14 +8,17 @@ public class backgroundMusic : MonoBehaviour
 {
 
     public AudioSource musicPiece;
- //   public Material showingMaterial;
+    public GameObject[] audioOn = new GameObject[3];
+    public GameObject[] audioOff = new GameObject[3];
+
+    //   public Material showingMaterial;
 
     // Start is called before the first frame update
 
     void Start()
     {
         musicPiece.enabled = true;
-    //    showingMaterial = transform.Find("AudioToggle").GetComponent<Material>();
+   
     }
 
     // Update is called once per frame
@@ -24,19 +27,30 @@ public class backgroundMusic : MonoBehaviour
 
     }
 
-    // Switch on Music
+    // Switch on/off Music & Audio icons
 
     public void toggle(int onOff)
     {
         if (musicPiece.enabled)
         {
             musicPiece.enabled = false;
-       //     image.enabled = false;
+            audioOn[0].SetActive(false);
+            audioOn[1].SetActive(false);
+            audioOn[2].SetActive(false);
+            audioOff[0].SetActive(true);
+            audioOff[1].SetActive(true);
+            audioOff[2].SetActive(true);
         }
 
         else
         {
              musicPiece.enabled = true;
+             audioOn[0].SetActive(true);
+             audioOn[1].SetActive(true);
+             audioOn[2].SetActive(true);
+            audioOff[0].SetActive(false);
+            audioOff[1].SetActive(false);
+            audioOff[2].SetActive(false);
         }
     }
     

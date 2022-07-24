@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public GameObject[] paintingChange = new GameObject[16];
+    public GameObject[] paintingChange = new GameObject[46];
     public int currentPainting;
 
     // Start is called before the first frame update
