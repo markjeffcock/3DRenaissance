@@ -3102,15 +3102,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '?????????
-
-
-    Jean Leon Gerome Ferris (Philadelphia, 1863 - 1930), an
-    American painter, owes his name to his father''s admiration for the French painter
-    Jean-Leon Gerome, to whom he owes the choice to paint the series of 78 scenes
-    from American history entitled The Parade of a Nation that made him famous.
-
-'
+  m_Text: "The First Thanksgiving 1621, 1912-1915 \n\nJean Leon Gerome Ferris (Philadelphia,
+    1863 - 1930), an American painter, owes his name to his father's admiration for
+    the French painter Jean-Leon Gerome, to whom he owes the choice to paint the
+    series of 78 scenes from American history entitled The Parade of a Nation that
+    made him famous.\n"
 --- !u!222 &165209006
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4535,13 +4531,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '????
+  m_Text: 'Merrymakers at Shrovetide, c1616-17
 
 
-    Frans Hals (Antwerp, 1580 - Haarlem, 1666) was second only
-    to Rembrandt in terms of stylistic innovations. He was one of the most prolific
-    painters of the Dutch period and is the author of some of the best-known portraits
-    of the Baroque, becoming a key point in the history of physiognomy. '
+    Frans Hals (Antwerp, 1580 -
+    Haarlem, 1666) was second only to Rembrandt in terms of stylistic innovations.
+    He was one of the most prolific painters of the Dutch period and is the author
+    of some of the best-known portraits of the Baroque, becoming a key point in the
+    history of physiognomy. '
 --- !u!222 &213039449
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11817,18 +11814,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '??????
+  m_Text: 'Paradiso, Canto 31 : The saintly throng form a rose in the empyrean, 1855
 
 
-    Paul Gustave Lois Christophe Dore,
+    Paul
+    Gustave Lois Christophe Dore,
 
-    (Strasbourg, 1832
-    - Paris, 1883) was a French painter and engraver.
+    (Strasbourg, 1832 - Paris, 1883) was a French
+    painter and engraver.
 
-    Draftsmen and lithographer,
-    he is best known for his illustrations of classical masterpieces (Dante, Rabelais,
-    Cervantes, La Fontaine, Milton) and contemporary literature texts (Balzac, Gautier,
-    Poe, Coleridge, Tennyson).
+    Draftsmen and lithographer, he is best known for his
+    illustrations of classical masterpieces (Dante, Rabelais, Cervantes, La Fontaine,
+    Milton) and contemporary literature texts (Balzac, Gautier, Poe, Coleridge, Tennyson).
 
 '
 --- !u!222 &456125374
@@ -14060,15 +14057,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '????????????????
+  m_Text: 'The Execution of the Innocent Count (first panel),  1471-5
 
 
-    Dieric Bouts the Elder (Haarlem, around 1415 -
-    Leuven, 1475) was a Dutch painter.
+    Dieric
+    Bouts the Elder (Haarlem, around 1415 - Leuven, 1475) was a Dutch painter.
 
-    Official painter of the city of Leuven,
-    Bouts soon enjoyed a certain notoriety in much of Europe for his vertical compositions
-    and portraits.
+    Official
+    painter of the city of Leuven, Bouts soon enjoyed a certain notoriety in much
+    of Europe for his vertical compositions and portraits.
 
 '
 --- !u!222 &571626874
@@ -17559,7 +17556,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '?????????????????
+  m_Text: 'The Love Nymph, 1885
 
 
     Anders Leonard Zorn (Mora, 1860 - Mora, 1920)
@@ -17719,14 +17716,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '???????????
+  m_Text: 'Deeds of Hercules and his Apotheosis, 1704-08
 
 
-    Andrea Pozzo (Tento, 1642 - Vienna, 1709), was an Italian
-    Jesuit, painter, decorator and art theorist. An extraordinarily versatile artist,
-    he was a significant figure of the late Baroque. The culmination of his relentless
-    prospective and figurative research are the frescoes on the ceiling of the church
-    of Sant''Ignazio di Layola in Rome.
+    Andrea Pozzo (Tento,
+    1642 - Vienna, 1709), was an Italian Jesuit, painter, decorator and art theorist.
+    An extraordinarily versatile artist, he was a significant figure of the late
+    Baroque. The culmination of his relentless prospective and figurative research
+    are the frescoes on the ceiling of the church of Sant''Ignazio di Layola in Rome.
 
 '
 --- !u!222 &748793057
@@ -18438,14 +18435,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '??????
+  m_Text: 'The Youth of Bacchus, 1884
 
 
-    William-Adolphe Bouguereau (La Rochell, 1825 - 1905) was
-    a French painter and teacher belonging to the academic circuit. Towards the end
-    of the career he began to be increasingly discredited by the precursors of modernism.
-    Gradually re-evaluated, he is now considered one of the great painters of the
-    19th century.
+    William-Adolphe Bouguereau (La Rochell,
+    1825 - 1905) was a French painter and teacher belonging to the academic circuit.
+    Towards the end of the career he began to be increasingly discredited by the
+    precursors of modernism. Gradually re-evaluated, he is now considered one of
+    the great painters of the 19th century.
 
 '
 --- !u!222 &784118266
@@ -24757,20 +24754,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '??????
-
-
-    Paul Gustave Lois Christophe Dore,
-
-    (Strasbourg, 1832
-    - Paris, 1883) was a French painter and engraver.
-
-    Draftsmen and lithographer,
-    he is best known for his illustrations of classical masterpieces (Dante, Rabelais,
-    Cervantes, La Fontaine, Milton) and contemporary literature texts (Balzac, Gautier,
-    Poe, Coleridge, Tennyson).
-
-'
+  m_Text: "Maese Pedro's puppet show - from \u201CDon Quixote de la Mancha\u201D,
+    c.1868\n\nPaul Gustave Lois Christophe Dore,\n(Strasbourg, 1832 - Paris, 1883)
+    was a French painter and engraver.\nDraftsmen and lithographer, he is best known
+    for his illustrations of classical masterpieces (Dante, Rabelais, Cervantes,
+    La Fontaine, Milton) and contemporary literature texts (Balzac, Gautier, Poe,
+    Coleridge, Tennyson).\n"
 --- !u!222 &1003327217
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25385,8 +25374,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "The Garden of Earthly Delights (???? only), 1500\n\nHieronymus Bosch,
-    pseudonym of Jeroen Anthoniszoon von Aken ('s-Hertogenbosch, 1453- 's-Hertogenbosch,
+  m_Text: "The Garden of Earthly Delights (right-hand panel only), 1500\n\nHieronymus
+    Bosch, pseudonym of Jeroen Anthoniszoon von Aken ('s-Hertogenbosch, 1453- 's-Hertogenbosch,
     1516), was a Dutch painter. \nThe wealth of inventiveness in his works, veritable
     visions, has called into questions different doctrines, amongst them psychanalysis,
     each of which has give its own reading.\n"
@@ -28334,13 +28323,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '????????
-
-
-    Giovanni Battista Piranesi (Magliano Veneto, 1720 - Rome,
-    1778), was an Italian engraver, architect and theorist of architecture. His tableaux
-    celebrate Roman magnificance through the grandeur and isolation of architectural
-    elements.'
+  m_Text: "Spaccato interno della Basilica di S. Paolo fuori delle Mura,  1749 \n\nGiovanni
+    Battista Piranesi (Magliano Veneto, 1720 - Rome, 1778), was an Italian engraver,
+    architect and theorist of architecture. His tableaux celebrate Roman magnificance
+    through the grandeur and isolation of architectural elements."
 --- !u!222 &1159695420
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -32022,13 +32008,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '????
-
-
-    Alexandre Jean-Baptiste Brun (Marseille, 1853 - Marseille,
-    1941) known above all for his many marine paintings.
-
-'
+  m_Text: "View of the Salon Carr\xE9, 1880\n\nAlexandre Jean-Baptiste Brun (Marseille,
+    1853 - Marseille, 1941) known above all for his many marine paintings.\n"
 --- !u!222 &1286450748
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -47088,7 +47069,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '??????
+  m_Text: 'Scena della Festa Teatrale in occasione delli Sponsali del Principe Reale
+    di Polonia ed elettorale di Sassonia, project by Giuseppe Galli da Bibbiena,
+    circa 1740
 
 
     Giuseppe Galli da Bibbiena (Parma, 1696 - 1757) was a scenographer
@@ -50872,7 +50855,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '?????????????????/
+  m_Text: 'Spanish Dancer,  1900
 
 
     Giovanni Boldini (Ferrara, 1842 - Paris, 1931)
@@ -51952,7 +51935,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "??????????\n\nLawrence Alma-Tadema (Dronrijp, 1836 - Wiesbaden, 1912)
+  m_Text: "Spring, 1894\n\nLawrence Alma-Tadema (Dronrijp, 1836 - Wiesbaden, 1912)
     was a Dutch painter. \nSettled in England, where he obtained a special citzenship,
     he was celebrated and known for his subjects inspired by classical antiquity,
     in which he depicted the luxury and decandence of the Roman Empire.\n"
@@ -54828,12 +54811,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '??????????
+  m_Text: 'Eastgate Street, Chester, 1920
 
 
-    Louise Ingram Rayner (Matlock Bath, 1832 - St Leonards-on-Sea,
-    1924) was a British painter. Her paintings depict highly detailed street scenes
-    of English towns in the Victorian period, very popular today as prints and puzzles.
+    Louise Ingram Rayner (Matlock Bath,
+    1832 - St Leonards-on-Sea, 1924) was a British painter. Her paintings depict
+    highly detailed street scenes of English towns in the Victorian period, very
+    popular today as prints and puzzles.
 
 '
 --- !u!222 &2039342402
